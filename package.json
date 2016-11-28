@@ -1,0 +1,30 @@
+{
+  "name": "muki",
+  "version": "0.0.1",
+  "description": "JavaScript port of the Paulig Muki API",
+  "main": "index.js",
+  "dependencies": {
+    "noble": "^1.7.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprusr/muki.js.git"
+  },
+  "keywords": [
+    "Paulig",
+    "Muki",
+    "Bluetooth",
+    "BluetoothLE"
+  ],
+  "author": "Scott Street <scott@spru.sr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sprusr/muki.js/issues"
+  },
+  "homepage": "https://github.com/sprusr/muki.js#readme"
+}
