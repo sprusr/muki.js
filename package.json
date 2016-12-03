@@ -1,10 +1,13 @@
 {
   "name": "muki",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "JavaScript port of the Paulig Muki API",
   "main": "index.js",
   "dependencies": {
+    "floyd-steinberg": "^1.0.4",
+    "jimp": "^0.2.27",
     "noble": "^1.7.0",
+    "pngjs": "^3.0.0",
     "request": "^2.79.0"
   },
   "devDependencies": {},
