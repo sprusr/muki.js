@@ -1,6 +1,6 @@
 {
   "name": "muki",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JavaScript port of the Paulig Muki API",
   "main": "index.js",
   "dependencies": {
